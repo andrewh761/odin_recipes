@@ -1,0 +1,129 @@
+body {
+    background-color: rgba(40 42 54);
+
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #ff79c6;
+    text-decoration: underline;
+    font-weight: bold;
+    height:100px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+p {
+    color: #f8f8f2;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    color: #f8f8f2;  
+}
+h2 {
+    font-size: 25px;
+    color: #ff79c6;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    color: #f8f8f2;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ol{
+    color: #f8f8f2;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+} 
+
+/* This is for resizing the img on the page */
+
+
+.egg-img {
+    display: block;
+    margin:auto;
+    margin-bottom: 45px;
+    width:300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 25px;
+    width: min(70%, 300px);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.479);
+}
+.wing-img {
+    display: block;
+    margin:auto;
+    margin-bottom: 45px;
+    width:300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 25px;
+    width: min(70%, 300px);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.479);
+}
+.pizza-img {
+    display: block;
+    margin:auto;
+    margin-bottom: 45px;
+    width:300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 25px;
+    width: min(70%, 300px);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.479);
+
+}
+
+
+
+/* Style for the Home Page */
+.block {
+    display: block;
+    margin:auto;
+    text-align: left;
+    border: 3px solid black;
+    border-radius: 25px;
+    width: min(70%, 300px);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.479);
+}
+#contents {
+    margin-top: 2rem;
+    height: 100px;
+    border: 3px solid black;
+    text-align: left;
+    border-radius: 25px;
+    background-color: rgba(40 42 54);
+}
+a {
+    text-decoration: none;
+    color:#ff79c6;
+    
+}
+.recipe {
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 2px;
+    font-size: 18px;
+
+}
+
+header{
+    
+        transform: translateY(-2.3rem);
+        text-align: top;
+        position: static;
+        height: 4rem;
+        width:8rem;
+        line-height: 5.0rem;
+        left:0px;
+        top:0px;
+        
+}
+
+.headings {
+    text-align: left;
+    font-size: 30px;
+    color: #ff79c6;
+    font-weight: bold;
+}
