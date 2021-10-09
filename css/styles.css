@@ -127,3 +127,11 @@ header{
     color: #ff79c6;
     font-weight: bold;
 }
+
+.list {
+    padding: 6px;
+    width: auto;
+    height: auto;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
